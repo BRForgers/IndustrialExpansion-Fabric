@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "br.com.brforgers.mods.industrialexpansion.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

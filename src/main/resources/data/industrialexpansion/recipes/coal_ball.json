@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "c:coal_dusts"
+    },
+    "Y": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "industrialexpansion:coal_ball"
+  }
+}

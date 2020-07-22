@@ -1,0 +1,11 @@
+{
+  "type": "indrev:compress",
+  "ingredient": {
+    "item": "industrialexpansion:coal_ball"
+  },
+  "output": {
+    "item": "industrialexpansion:compact_coal_ball",
+    "count": 1
+  },
+  "processTime": 300
+}

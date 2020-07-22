@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "industrialexpansion",
+  "version": "${version}",
+
+  "name": "Industrial Expansion",
+  "description": "IC2 Recipes for \u00A7mThermal\u00A7r\u00A7m \u00A7r\u00A7mExpansion\u00A7r mods made with fabric that add machines",
+  "authors": [
+    "BRForgers Team",
+    "armelin1"
+  ],
+  "contact": {
+    "homepage": "https://brforgers.com.br/",
+    "sources": "https://github.com/BRForgers/IndustrialExpansion-1.12.2/"
+  },
+
+  "license": "All Rights Reserved",
+  "icon": "assets/industrialexpansion/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      {
+      "adapter": "kotlin",
+      "value": "br.com.brforgers.mods.industrialexpansion.IndustrialExpansion"
+      }
+    ]
+  },
+  "mixins": [
+    "industrialexpansion.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.8.7",
+    "fabric": "*",
+    "fabric-language-kotlin": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

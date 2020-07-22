@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "industrialexpansion:compact_coal_ball"
+    },
+    "Y": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "industrialexpansion:coal_chunk"
+  }
+}

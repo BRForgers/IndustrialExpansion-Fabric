@@ -1,0 +1,15 @@
+{
+  "type": "techreborn:compressor",
+  "power": 10,
+  "time": 300,
+  "ingredients": [
+    {
+      "item": "industrialexpansion:coal_ball"
+    }
+  ],
+  "results": [
+    {
+      "item": "industrialexpansion:compact_coal_ball"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "techreborn:compressor",
+  "power": 20,
+  "time": 500,
+  "ingredients": [
+    {
+      "item": "industrialexpansion:coal_chunk"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ]
+}

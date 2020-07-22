@@ -1,0 +1,11 @@
+{
+  "type": "indrev:compress",
+  "ingredient": {
+    "item": "industrialexpansion:coal_chunk"
+  },
+  "output": {
+    "item": "minecraft:diamond",
+    "count": 1
+  },
+  "processTime": 500
+}
